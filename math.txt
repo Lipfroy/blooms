@@ -1,0 +1,121 @@
+Foundations of Mathematics, Grade 9, Applied (MFM1P)
+This course enables students to develop an understanding of mathematical concepts related to introductory algebra, proportional reasoning, and measurement and geometry through inves- tigation, the effective use of technology, and hands-on activities. Students will investigate real-life examples to develop various representations of linear relations, and will determine the connections between the representations. They will also explore certain relationships that emerge from the measurement of three-dimensional figures and two-dimensional shapes. Students will consolidate their mathematical skills as they solve problems and communicate their thinking.
+
+Number Sense and Algebra
+Overall Expectations
+By the end of this course, students will:
+• solve problems involving proportional reasoning;
+• simplifynumericalandpolynomialexpressionsinonevariable,andsolvesimplefirst-degree equations.
+Specific Expectations
+Solving Problems Involving Proportional Reasoning
+By the end of this course, students will:
+– illustrate equivalent ratios, using a variety of tools (e.g., concrete materials, diagrams, dynamic geometry software) (e.g., show that 4:6 represents the same ratio as 2:3 by showing that a ramp with a height of 4 m and a base of 6 m and a ramp with a height of 2 m and a base of 3 m are equally steep);
+– represent, using equivalent ratios and pro- portions, directly proportional relationships arising from realistic situations (Sample problem:You are building a skateboard ramp whose ratio of height to base must be 2:3. Write a proportion that could be used to determine the base if the height is 4.5 m.);
+– solve for the unknown value in a propor- tion, using a variety of methods (e.g., con- crete materials, algebraic reasoning, equiva- lent ratios, constant of proportionality)
+(Sample problem: Solve x4 =   .);
+– make comparisons using unit rates (e.g., if 500 mL of juice costs $2.29, the unit rate is 0.458¢/mL; this unit rate is less than for 750 mL of juice at $3.59, which has a unit rate of 0.479¢/mL);
+– solve problems involving ratios, rates, and directly proportional relationships in vari- ous contexts (e.g., currency conversions, scale drawings, measurement), using a variety of methods (e.g., using algebraic
+reasoning, equivalent ratios, a constant of proportionality; using dynamic geometry software to construct and measure scale drawings) (Sample problem: Simple inter- est is directly proportional to the amount invested. If Luis invests $84 for one year and earns $1.26 in interest, how much would he earn in interest if he invested $235 for one year?);
+– solve problems requiring the expression of percents, fractions, and decimals in their equivalent forms (e.g., calculating simple interest and sales tax; analysing data) (Sample problem: Of the 29 students in a Grade 9 math class, 13 are taking science this semester. If this class is representative of all the Grade 9 students in the school, estimate and calculate the percent of the 236 Grade 9 students who are taking sci- ence this semester. Estimate and calculate the number of Grade 9 students this per- cent represents.).
+Simplifying Expressions and Solving Equations
+By the end of this course, students will:
+– simplify numerical expressions involving integers and rational numbers, with and without the use of technology;*
+– relate their understanding of inverse operations to squaring and taking the square root, and apply inverse operations to simplify expressions and solve equations;
+ 15
+20
+  *The knowledge and skills described in this expectation are to be introduced as needed and applied and consoli- dated throughout the course.
+
+  describe the relationship between the algebraic and geometric representations of a single-variable term up to degree three [i.e., length, which is one dimensional, can be represented by x; area, which is two dimensional, can be represented by (x)(x) or x2; volume, which is three dimensional, can be represented by (x)(x)(x), (x2)(x),
+or x3];
+substitute into and evaluate algebraic expres- sions involving exponents (i.e., evaluate expressions involving natural-number exponents with rational-number bases)
+[e.g., evaluate 3 3 by hand and 9.83 by 2
+using a calculator]) (Sample problem: A movie theatre wants to compare the volumes of popcorn in two containers, a cube with edge length 8.1 cm and a cylin- der with radius 4.5 cm and height 8.0 cm. Which container holds more popcorn?);*
+add and subtract polynomials involving the same variable up to degree three [e.g., (2x + 1) + (x2 – 3x + 4)],using a variety of tools (e.g., algebra tiles, computer algebra systems, paper and pencil);
+– multiply a polynomial by a monomial in- volving the same variable to give results up to degree three [e.g., (2x)(3x), 2x(x + 3)], using a variety of tools (e.g., algebra tiles, drawings, computer algebra systems, paper and pencil);
+– solve first-degree equations with non- fractional coefficients, using a variety of tools (e.g., computer algebra systems, paper and pencil) and strategies (e.g., the balance analogy, algebraic strategies) (Sample problem: Solve 2x + 7 = 6x – 1 using the balance analogy.);
+– substitute into algebraic equations and solve for one variable in the first degree (e.g., in relationships, in measurement) (Sample problem: The perimeter of a rec- tangle can be represented as P = 2l + 2w. If the perimeter of a rectangle is 59 cm and the width is 12 cm, determine the length.).
+
+Linear Relations
+Overall Expectations
+By the end of this course, students will:
+• apply data-management techniques to investigate relationships between two variables;
+• determine the characteristics of linear relations;
+• demonstrate an understanding of constant rate of change and its connection to linear relations;
+• connectvariousrepresentationsofalinearrelation,andsolveproblemsusingthe representations.
+Specific Expectations
+Using Data Management to Investigate Relationships
+By the end of this course, students will:
+– interpret the meanings of points on scatter plots or graphs that represent linear rela- tions, including scatter plots or graphs in more than one quadrant [e.g., on a scatter plot of height versus age, interpret the point (13, 150) as representing a student who is 13 years old and 150 cm tall; iden- tify points on the graph that represent students who are taller and younger than this student] (Sample problem: Given a graph that represents the relationship of the Celsius scale and the Fahrenheit scale, determine the Celsius equivalent of –5°F.);
+– pose problems, identify variables, and for- mulate hypotheses associated with rela- tionships between two variables (Sample problem: Does the rebound height of a ball depend on the height from which it was dropped?);
+– carry out an investigation or experiment involving relationships between two variables, including the collection and organization of data, using appropriate methods, equipment, and/or technology (e.g., surveying; using measuring tools, scientific probes, the Internet) and tech- niques (e.g., making tables, drawing graphs) (Sample problem: Perform an
+experiment to measure and record the temperature of ice water in a plastic cup and ice water in a thermal mug over a
+30 min period, for the purpose of com- parison. What factors might affect the outcome of this experiment? How could you change the experiment to account for them?);
+– describe trends and relationships observed in data, make inferences from data, com- pare the inferences with hypotheses about the data, and explain any differences between the inferences and the hypotheses (e.g., describe the trend observed in the data. Does a relationship seem to exist? Of what sort? Is the outcome consistent with your hypothesis? Identify and explain any outlying pieces of data. Suggest a formula that relates the variables. How might you vary this experiment to examine other relationships?) (Sample problem: Hypo- thesize the effect of the length of a pendulum on the time required for the pendulum to make five full swings. Use data to make an inference. Compare the inference with the hypothesis. Are there other relationships you might investigate involving pendulums?).
+
+
+Determining Characteristics of Linear Relations
+By the end of this course, students will:
+– construct tables of values and graphs, using a variety of tools (e.g., graphing calculators, spreadsheets, graphing software, paper and pencil), to represent linear relations derived from descriptions of realistic situa- tions (Sample problem: Construct a table of values and a graph to represent a monthly cellphone plan that costs $25, plus $0.10 per minute of airtime.);
+– construct tables of values, scatter plots, and lines or curves of best fit as appropriate, using a variety of tools (e.g., spreadsheets, graphing software, graphing calculators, paper and pencil), for linearly related and non-linearly related data collected from a variety of sources (e.g., experiments, elec- tronic secondary sources, patterning with concrete materials) (Sample problem: Collect data, using concrete materials or dynamic geometry software, and construct a table of values, a scatter plot, and a line or curve of best fit to represent the fol- lowing relationships: the volume and the height for a square-based prism with a fixed base; the volume and the side length of the base for a square-based prism with a fixed height.);
+– identify, through investigation, some prop- erties of linear relations (i.e., numerically, the first difference is a constant, which represents a constant rate of change; graphically, a straight line represents the relation), and apply these properties to determine whether a relation is linear or non-linear.
+Investigating Constant Rate of Change
+By the end of this course, students will:
+– determine, through investigation, that the rate of change of a linear relation can be
+found by choosing any two points on the line that represents the relation, finding the vertical change between the points (i.e., the rise) and the horizontal change between the points (i.e., the run), and
+writing the ratio
+– determine, through investigation, connec- tions among the representations of a con- stant rate of change of a linear relation (e.g., the cost of producing a book of photographs is $50, plus $5 per book, so an equation is C = 50 + 5p; a table of val- ues provides the first difference of 5; the rate of change has a value of 5; and 5 is the coefficient of the independent vari- able, p, in this equation);
+– compare the properties of direct variation and partial variation in applications, and identify the initial value (e.g., for a relation described in words, or represented as a graph or an equation) (Sample problem: Yoga costs $20 for registration, plus $8 per class. Tai chi costs $12 per class. Which situation represents a direct variation, and which represents a partial variation? For each relation, what is the initial value? Explain your answers.);
+– express a linear relation as an equation in two variables, using the rate of change and the initial value (e.g., Mei is raising funds in a charity walkathon; the course mea- sures 25 km, and Mei walks at a steady pace of 4 km/h; the distance she has left to walk can be expressed as d = 25 – 4t, where t is the number of hours since she started the walk);
+– describe the meaning of the rate of change and the initial value for a linear relation arising from a realistic situation (e.g., the cost to rent the community gym
+
+
+is $40 per evening, plus $2 per person for equipment rental; the vertical intercept, 40, represents the $40 cost of renting the gym; the value of the rate of change, 2, represents the $2 cost per person), and describe a situation that could be mod- elled by a given linear equation (e.g., the linear equation M = 50 + 6d could model the mass of a shipping package, including 50 g for the packaging material, plus 6 g per flyer added to the package).
+Connecting Various Representations of Linear Relations and Solving Problems Using the Representations
+By the end of this course, students will:
+– determine values of a linear relation by using a table of values, by using the equa- tion of the relation, and by interpolating or extrapolating from the graph of the relation (Sample problem: The equation H = 300 – 60t represents the height of a hot air balloon that is initially at 300 m and is descending at a constant rate of
+60 m/min. Determine algebraically and graphically its height after 3.5 min.);
+– describe a situation that would explain the events illustrated by a given graph
+of a relationship between two variables (Sample problem: The walk of an indi- vidual is illustrated in the given graph, produced by a motion detector and a graphing calculator. Describe the walk [e.g., the initial distance from the motion detector, the rate of walk].);
+– determine other representations of a linear relation arising from a realistic situation, given one representation (e.g., given a numeric model, determine a graphical model and an algebraic model; given a graph, determine some points on the graph and determine an algebraic model);
+– solve problems that can be modelled with first-degree equations, and compare the algebraic method to other solution methods
+(e.g., graphing) (Sample problem: Bill noticed it snowing and measured that
+5 cm of snow had already fallen. During the next hour, an additional 1.5 cm of snow fell. If it continues to snow at this rate, how many more hours will it take until a total of 12.5 cm of snow has accumulated?);
+– describe the effects on a linear graph and make the corresponding changes to the linear equation when the conditions of the situation they represent are varied (e.g., given a partial variation graph and an equation representing the cost of producing a yearbook, describe how the graph changes if the cost per book is altered, describe how the graph changes if the fixed costs are altered, and make the corresponding changes to the equation);
+– determine graphically the point of intersection of two linear relations, and interpret the intersection point in the context of an application (Sample problem: A video rental company has two monthly plans. Plan A charges a flat fee of $30 for unlimited rentals; Plan B charges $9, plus $3 per video. Use a graphical model to determine the conditions under which you should choose Plan A or Plan B.);
+– select a topic involving a two-variable relationship (e.g., the amount of your pay cheque and the number of hours you work; trends in sports salaries over time; the time required to cool a cup of coffee), pose a question on the topic, collect data to answer the question, and present its solution using appropriate representations of the data (Sample problem: Individually or in a small group, collect data on the cost compared to the capacity of computer hard drives. Present the data numerically, graphically, and [if linear] algebraically. Describe the results and any trends orally or by making a poster display or by using presentation software.).
+
+
+Measurement and Geometry
+Overall Expectations
+By the end of this course, students will:
+• determine,throughinvestigation,theoptimalvaluesofvariousmeasurementsofrectangles;
+• solve problems involving the measurements of two-dimensional shapes and the volumes of three-dimensional figures;
+• determine,throughinvestigationfacilitatedbydynamicgeometrysoftware,geometric properties and relationships involving two-dimensional shapes, and apply the results to solving problems.
+Specific Expectations
+Investigating the Optimal Values of Measurements of Rectangles
+By the end of this course, students will:
+– determine the maximum area of a rectan- gle with a given perimeter by constructing a variety of rectangles, using a variety of tools (e.g., geoboards, graph paper, tooth- picks, a pre-made dynamic geometry sketch), and by examining various values of the area as the side lengths change and the perimeter remains constant;
+– determine the minimum perimeter of a rectangle with a given area by constructing a variety of rectangles, using a variety of tools (e.g., geoboards, graph paper, a pre- made dynamic geometry sketch), and by examining various values of the side lengths and the perimeter as the area stays constant;
+– solve problems that require maximizing the area of a rectangle for a fixed perimeter or minimizing the perimeter of a rectangle for a fixed area (Sample problem: You have 100 m of fence to enclose a rectangular area to be used for a snow sculpture com- petition. One side of the area is bounded by the school, so the fence is required for only three sides of the rectangle. Deter- mine the dimensions of the maximum area that can be enclosed.).
+Solving Problems Involving Perimeter, Area, and Volume
+By the end of this course, students will:
+– relate the geometric representation of
+the Pythagorean theorem to the algebraic representation a2 + b2 = c2;
+– solve problems using the Pythagorean theorem, as required in applications (e.g., calculate the height of a cone, given the radius and the slant height, in order to determine the volume of the cone);
+– solve problems involving the areas and perimeters of composite two-dimensional shapes (i.e., combinations of rectangles, triangles, parallelograms, trapezoids, and circles) (Sample problem: A new park is in the shape of an isosceles trapezoid with a square attached to the shortest side. The side lengths of the trapezoidal section are 200 m,500 m,500 m,and 800 m,and the side length of the square section is 200 m. If the park is to be fully fenced and sodded, how much fencing and sod are required?);
+– develop, through investigation (e.g., using concrete materials), the formulas for the volume of a pyramid, a cone, and a sphere (e.g., use three-dimensional figures to
+
+show that the volume of a pyramid [or cone] is 13 the volume of a prism
+[or cylinder] with the same base and height, and therefore that
+Vpyramid = Vprism or 3
+Vpyramid = (area of base)(height) ); 3
+– solve problems involving the volumes of prisms, pyramids, cylinders, cones, and spheres (Sample problem: Break-bit Cereal is sold in a single-serving size, in a box in the shape of a rectangular prism of dimen- sions 5 cm by 4 cm by 10 cm.The manu- facturer also sells the cereal in a larger size, in a box with dimensions double those of the smaller box. Make a hypothesis about the effect on the volume of doubling the dimensions. Test your hypothesis using
+the volumes of the two boxes, and discuss the result.).
+Investigating and Applying Geometric Relationships
+By the end of this course, students will:
+– determine, through investigation using a variety of tools (e.g., dynamic geometry software, concrete materials), and describe the properties and relationships of the interior and exterior angles of triangles, quadrilaterals, and other polygons, and apply the results to problems involving the angles of polygons (Sample problem: With the assistance of dynamic geometry soft- ware, determine the relationship between the sum of the interior angles of a poly- gon and the number of sides. Use your conclusion to determine the sum of the interior angles of a 20-sided polygon.);
+
+– determine, through investigation using a variety of tools (e.g., dynamic geometry software, concrete materials), and describe the properties and relationships of the angles formed by parallel lines cut by a transversal, and apply the results to prob- lems involving parallel lines (e.g., given
+a diagram of a rectangular gate with a supporting diagonal beam, and given the measure of one angle in the diagram, use the angle properties of triangles and paral- lel lines to determine the measures of the other angles in the diagram);
+– create an original dynamic sketch, paper- folding design, or other illustration that incorporates some of the geometric properties from this section, or find and report on some real-life application(s) (e.g., in carpentry, sports, architecture)
+of the geometric properties.
